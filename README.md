@@ -71,11 +71,7 @@ This helped me understand:
 </ul>
 <hr>
 
-<h2>AI Collaboration</h2>
-<p>
-I used <b>ChatGPT</b> during this project to help with debugging JavaScript and understanding how to manage the toggle between the rating and thank-you states.
-It helped me learn faster while still writing and testing the code myself.
-</p>
+
 <hr>
 
 <h2>Author</h2>
